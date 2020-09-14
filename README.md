@@ -1,2 +1,2 @@
-# Heart-Disease-Prediction-Using-Machine-Learning-Models
+# Cardio-Vascular-Disease-Prediction-Using-Machine-Learning-Models
 Heart Disease Prediction Using Machine Learning Models
